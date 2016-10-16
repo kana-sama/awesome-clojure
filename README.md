@@ -18,6 +18,7 @@
 - [environ](https://github.com/weavejester/environ) - Library for managing environment variables in Clojure
 - [data.json](https://github.com/clojure/data.json) - JSON parser/generator to/from Clojure data structures
 - [cljsjs](https://github.com/cljsjs/packages) - Javascript libraries packaged up with Google Closure externs (it's better use webpack)
+- [tongue](https://github.com/tonsky/tongue) - Do-it-yourself i18n library for Clojure/Script
 
 #### leiningen
 - [leiningen 🌟](https://github.com/technomancy/leiningen) - Leiningen is for automating Clojure projects without setting your hair on fire
