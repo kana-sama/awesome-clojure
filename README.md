@@ -57,3 +57,4 @@
 - [A Brief Beginner’s Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/index.html)
 - [Brave Clojure](http://www.braveclojure.com/)
 - [Clojure from the ground up](https://aphyr.com/tags/Clojure-from-the-ground-up)
+- [A monad tutorial for Clojure programmers](https://github.com/khinsen/monads-in-clojure)
