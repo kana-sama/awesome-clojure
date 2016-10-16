@@ -21,6 +21,7 @@
 - [lein-garden](https://github.com/noprompt/lein-garden) - Leiningen plugin for compiling Garden stylesheets
 - [lein-figwheel](https://github.com/bhauman/lein-figwheel) - Figwheel builds your ClojureScript code and hot loads it into the browser as you are coding!
 - [lein-cljfmt](https://github.com/weavejester/cljfmt) - A tool for formatting Clojure code
+- [eastwood](https://github.com/jonase/eastwood) - Clojure lint tool
 
 ## back-end
 - [ring](https://github.com/ring-clojure/ring) - Clojure HTTP server abstraction
