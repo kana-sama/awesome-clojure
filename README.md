@@ -43,6 +43,7 @@
 ## databases
 - [carmine](https://github.com/ptaoussanis/carmine) - Redis client and message queue for Clojure
 - [korma 🌟](https://github.com/korma/Korma) - Tasty SQL for Clojure
+- [monger 🌟](https://github.com/michaelklishin/monger) - Monger is an idiomatic Clojure MongoDB driver for a more civilized age
 - [lobos](https://github.com/budu/lobos) - A library to create and manipulate SQL database schemas with migrations support
 
 ## front-end
