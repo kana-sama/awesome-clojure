@@ -65,3 +65,4 @@
 - [Clojure from the ground up](https://aphyr.com/tags/Clojure-from-the-ground-up)
 - [A monad tutorial for Clojure programmers](https://github.com/khinsen/monads-in-clojure)
 - [Atom Clojure Setup 🌟](https://gist.github.com/jasongilman/d1f70507bed021b48625)
+- [Clojurescript/Reagent : importing React components from NPM](http://blob.tomerweller.com/reagent-import-react-components-from-npm)
