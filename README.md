@@ -11,7 +11,7 @@
 - [config](https://github.com/yogthos/config) - Library for managing environment variables in Clojure
 - [environ](https://github.com/weavejester/environ) - Library for managing environment variables in Clojure
 - [data.json](https://github.com/clojure/data.json) - JSON parser/generator to/from Clojure data structures
-- [garden](https://github.com/noprompt/garden)
+- [garden](https://github.com/noprompt/garden) - Generate CSS with Clojure
 - [kibit](https://github.com/jonase/kibit) - kibit is a static code analyzer for Clojure
 - [Midje](https://github.com/marick/Midje) - Midje is a test framework for Clojure
 - [cljsjs](https://github.com/cljsjs/packages) - Javascript libraries packaged up with Google Closure externs (it's better use webpack)
