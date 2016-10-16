@@ -13,7 +13,7 @@
 #### extra functions
 - [algo.monads](https://github.com/clojure/algo.monads) - Macros for defining monads, and definition of the most common monads
 - [medley](https://github.com/weavejester/medley) -  A lightweight library of useful Clojure functions
-- [plumbing 🌟](https://github.com/plumatic/plumbing)
+- [plumbing 🌟](https://github.com/plumatic/plumbing) - Prismatic's Clojure(Script) utility belt
 - [config](https://github.com/yogthos/config) - Library for managing environment variables in Clojure
 - [environ](https://github.com/weavejester/environ) - Library for managing environment variables in Clojure
 - [data.json](https://github.com/clojure/data.json) - JSON parser/generator to/from Clojure data structures
