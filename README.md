@@ -19,6 +19,8 @@
 - [lein-cljfmt](https://github.com/weavejester/cljfmt) - A tool for formatting Clojure code
 - [eastwood 🌟](https://github.com/jonase/eastwood) - Clojure lint tool
 - [re-frame-template](https://github.com/Day8/re-frame-template) - Leiningen template for reagent web app based on the re-frame pattern
+- [boot](https://github.com/boot-clj/boot) - Build tooling for Clojure
+- [boot-check](https://github.com/tolitius/boot-check) - check, analyze and inspect Clojure/Script code
 
 ## functions
 - [medley 🌟](https://github.com/weavejester/medley) -  A lightweight library of useful Clojure functions
