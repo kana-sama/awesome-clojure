@@ -59,6 +59,7 @@
 ## info
 - [Learn X in Y minutes Where X=clojure 🌟](https://learnxinyminutes.com/docs/clojure/)
 - [Quickref for Clojure Core 🌟](https://clojuredocs.org/quickref)
+- [Modern ClojureScript 🌟](https://github.com/magomimmo/modern-cljs)
 - [Clojure Distilled](http://yogthos.github.io/ClojureDistilled.html)
 - [Clojure Cookbook 🌟](https://github.com/clojure-cookbook/clojure-cookbook)
 - [A Brief Beginner’s Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/index.html)
