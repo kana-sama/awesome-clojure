@@ -18,6 +18,7 @@
 - [lein-figwheel 🌟](https://github.com/bhauman/lein-figwheel) - Figwheel builds your ClojureScript code and hot loads it into the browser as you are coding!
 - [lein-cljfmt](https://github.com/weavejester/cljfmt) - A tool for formatting Clojure code
 - [eastwood 🌟](https://github.com/jonase/eastwood) - Clojure lint tool
+- [re-frame-template](https://github.com/Day8/re-frame-template) - Leiningen template for reagent web app based on the re-frame pattern
 
 ## functions
 - [medley 🌟](https://github.com/weavejester/medley) -  A lightweight library of useful Clojure functions
@@ -51,7 +52,6 @@
 - [datascript](https://github.com/tonsky/datascript) - Immutable database and Datalog query engine for Clojure
 - [re-com](https://github.com/Day8/re-com) - A ClojureScript library of reusable components for Reagent
 - [re-frame 🌟](https://github.com/Day8/re-frame) - A Reagent Framework For Writing SPAs, in Clojurescript
-- [re-frame-template](https://github.com/Day8/re-frame-template) - Leiningen template for reagent web app based on the re-frame pattern
 - [re-frame-undo](https://github.com/Day8/re-frame-undo) - An undo library for re-frame
 - [re-frame-http-fx](https://github.com/Day8/re-frame-http-fx) - A re-frame "effects handler" for performing Ajax tasks (via cljs-ajax)
 
