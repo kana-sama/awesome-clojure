@@ -52,6 +52,7 @@
 - [cljs-ajax](https://github.com/JulianBirch/cljs-ajax) - Simple Ajax client for Clojure
 - [reagent 🌟](https://github.com/reagent-project/reagent) - A minimalistic ClojureScript interface to React.js
 - [secretary](https://github.com/gf3/secretary) - A client-side router for ClojureScript
+- [accountant](https://github.com/venantius/accountant) - ClojureScript library to make navigation in single-page applications simple
 - [datascript](https://github.com/tonsky/datascript) - Immutable database and Datalog query engine for Clojure
 - [re-com](https://github.com/Day8/re-com) - A ClojureScript library of reusable components for Reagent
 - [re-frame 🌟](https://github.com/Day8/re-frame) - A Reagent Framework For Writing SPAs, in Clojurescript
