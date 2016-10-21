@@ -12,15 +12,15 @@
 - [Midje 🌟](https://github.com/marick/Midje) - Midje is a test framework for Clojure
 
 ## tools
+- [leiningen 🌟](https://github.com/technomancy/leiningen) - Leiningen is for automating Clojure projects without setting your hair on fire (config-based)
+- [boot 🌟](https://github.com/boot-clj/boot) - Build tooling for Clojure (code-based)
+
 - [kibit 🌟](https://github.com/jonase/kibit) - kibit is a static code analyzer for Clojure
-- [leiningen 🌟](https://github.com/technomancy/leiningen) - Leiningen is for automating Clojure projects without setting your hair on fire
 - [lein-garden](https://github.com/noprompt/lein-garden) - Leiningen plugin for compiling Garden stylesheets
 - [lein-figwheel 🌟](https://github.com/bhauman/lein-figwheel) - Figwheel builds your ClojureScript code and hot loads it into the browser as you are coding!
 - [lein-cljfmt](https://github.com/weavejester/cljfmt) - A tool for formatting Clojure code
-- [eastwood 🌟](https://github.com/jonase/eastwood) - Clojure lint tool
+- [eastwood](https://github.com/jonase/eastwood) - Clojure lint tool
 - [re-frame-template](https://github.com/Day8/re-frame-template) - Leiningen template for reagent web app based on the re-frame pattern
-- [boot](https://github.com/boot-clj/boot) - Build tooling for Clojure
-- [boot-check](https://github.com/tolitius/boot-check) - check, analyze and inspect Clojure/Script code
 
 ## functions
 - [medley 🌟](https://github.com/weavejester/medley) -  A lightweight library of useful Clojure functions
