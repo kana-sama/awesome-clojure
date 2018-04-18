@@ -14,7 +14,6 @@
 ## tools
 - [leiningen 🌟](https://github.com/technomancy/leiningen) - Leiningen is for automating Clojure projects without setting your hair on fire (config-based)
 - [boot 🌟](https://github.com/boot-clj/boot) - Build tooling for Clojure (code-based)
-
 - [kibit 🌟](https://github.com/jonase/kibit) - kibit is a static code analyzer for Clojure
 - [lein-garden](https://github.com/noprompt/lein-garden) - Leiningen plugin for compiling Garden stylesheets
 - [lein-figwheel 🌟](https://github.com/bhauman/lein-figwheel) - Figwheel builds your ClojureScript code and hot loads it into the browser as you are coding!
